@@ -1,0 +1,15 @@
+{
+    "name": "sayna-batman-part4-api",
+    "version": "1.0.0",
+    "description": "API Projet Batman Part4 | T4SU - SAYNA",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "keywords": ["T4SU, Formation 2022, Talent 4 Startup, Talent for Startup, sayna formation, digital africa"],
+    "author": "SIETIE",
+    "license": "ISC",
+    "dependencies": {
+        "json-server": "^0.17.0"
+    }
+}

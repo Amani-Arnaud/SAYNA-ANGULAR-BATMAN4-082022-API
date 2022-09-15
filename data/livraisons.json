@@ -1,0 +1,13 @@
+[{
+        "id": "1",
+        "Type": "Livraison à domicile.",
+        "Delai_min": "2",
+        "Delai_max": "4"
+    },
+    {
+        "id": "2",
+        "Type": "Retrait en point relais.",
+        "Delai_min": "1",
+        "Delai_max": "2"
+    }
+]

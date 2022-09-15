@@ -1,0 +1,55 @@
+[{
+        "id": "1",
+        "Nom": "ALBAN",
+        "Prenom": "Hubert",
+        "Email": "hub@gmail.com",
+        "NumPhone": "340112120",
+        "AdresseLivraison": "Antananarivo",
+        "AdresseFacturation": "Antananarivo"
+    },
+    {
+        "id": "2",
+        "Nom": "BERTRAND",
+        "Prenom": "Ginot",
+        "Email": "ginot@yahoo.fr",
+        "NumPhone": "340112121",
+        "AdresseLivraison": "Mahajanga",
+        "AdresseFacturation": "Tuléar"
+    },
+    {
+        "id": "3",
+        "Nom": "COLLIN",
+        "Prenom": "Alicia",
+        "Email": "collin@gmail.com",
+        "NumPhone": "340112122",
+        "AdresseLivraison": "Tuléar",
+        "AdresseFacturation": "Tuléar"
+    },
+    {
+        "id": "4",
+        "Nom": "DUPONT",
+        "Prenom": "Junior",
+        "Email": "junior@yahoo.com",
+        "NumPhone": "340112123",
+        "AdresseLivraison": "Antananarivo",
+        "AdresseFacturation": "Antananarivo"
+    },
+    {
+        "id": "5",
+        "Nom": "DUPONT",
+        "Prenom": "Jean",
+        "Email": "jean@gmail.com",
+        "NumPhone": "340112124",
+        "AdresseLivraison": "Antananarivo",
+        "AdresseFacturation": "Antananarivo"
+    },
+    {
+        "id": "6",
+        "Nom": "BERNARD",
+        "Prenom": "Paul",
+        "Email": "paul@gmail.com",
+        "NumPhone": "340112125",
+        "AdresseLivraison": "Tuléar",
+        "AdresseFacturation": "Mahajanga"
+    }
+]

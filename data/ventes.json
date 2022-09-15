@@ -1,0 +1,113 @@
+[{
+        "id": "1",
+        "productId": "1",
+        "clientId": "5",
+        "Date_Achat": "2022-08-03 00:00:00",
+        "quantite": "1",
+        "livraisonId": "1"
+    },
+    {
+        "id": "2",
+        "productId": "8",
+        "clientId": "1",
+        "Date_Achat": "2019-05-12 00:00:00",
+        "quantite": "2",
+        "livraisonId": "2"
+    },
+    {
+        "id": "3",
+        "productId": "11",
+        "clientId": "2",
+        "Date_Achat": "2019-05-11 00:00:00",
+        "quantite": "1",
+        "livraisonId": "1"
+    },
+    {
+        "id": "4",
+        "productId": "2",
+        "clientId": "3",
+        "Date_Achat": "2022-08-10 00:00:00",
+        "quantite": "1",
+        "livraisonId": "2"
+    },
+    {
+        "id": "5",
+        "productId": "5",
+        "clientId": "5",
+        "Date_Achat": "2022-08-04 00:00:00",
+        "quantite": "1",
+        "livraisonId": "1"
+    },
+    {
+        "id": "6",
+        "productId": "3",
+        "clientId": "4",
+        "Date_Achat": "2022-03-05 00:00:00",
+        "quantite": "1",
+        "livraisonId": "2"
+    },
+    {
+        "id": "7",
+        "productId": "5",
+        "clientId": "6",
+        "Date_Achat": "2022-01-14 00:00:00",
+        "quantite": "1",
+        "livraisonId": "1"
+    },
+    {
+        "id": "8",
+        "productId": "13",
+        "clientId": "4",
+        "Date_Achat": "2020-06-14 00:00:00",
+        "quantite": "2",
+        "livraisonId": "2"
+    },
+    {
+        "id": "9",
+        "productId": "9",
+        "clientId": "1",
+        "Date_Achat": "2019-03-07 00:00:00",
+        "quantite": "1",
+        "livraisonId": "1"
+    },
+    {
+        "id": "10",
+        "productId": "4",
+        "clientId": "2",
+        "Date_Achat": "2022-05-06 00:00:00",
+        "quantite": "1",
+        "livraisonId": "2"
+    },
+    {
+        "id": "11",
+        "productId": "6",
+        "clientId": "3",
+        "Date_Achat": "2022-05-06 00:00:00",
+        "quantite": "1",
+        "livraisonId": "1"
+    },
+    {
+        "id": "12",
+        "productId": "7",
+        "clientId": "4",
+        "Date_Achat": "2022-08-03 00:00:00",
+        "quantite": "1",
+        "livraisonId": "2"
+    },
+    {
+        "id": "13",
+        "productId": "10",
+        "clientId": "5",
+        "Date_Achat": "2022-08-03 00:00:00",
+        "quantite": "1",
+        "livraisonId": "1"
+    },
+    {
+        "id": "14",
+        "productId": "12",
+        "clientId": "4",
+        "Date_Achat": "2022-08-03 00:00:00",
+        "quantite": "1",
+        "livraisonId": "2"
+    }
+]
